@@ -18,15 +18,9 @@ See the [full changelog](/CHANGELOG.md) for release details.
 ## Install
 If you just want to use facebook-chat-api, you should use this command:
 ```bash
-npm install facebook-chat-api
+npm install luna-messenger-api
 ```
 It will download facebook-chat-api from NPM repositories
-
-### Bleeding edge
-If you want to use bleeding edge (directly from github) to test new features or submit bug report, this is the command for you:
-```bash
-npm install Schmavery/facebook-chat-api
-```
 
 ## Testing your bots
 If you want to test your bots without creating another account on Facebook, you can use [Facebook Whitehat Accounts](https://www.facebook.com/whitehat/accounts/).
